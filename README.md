@@ -1,6 +1,6 @@
 # Node.js Random Emoji Generator
 
-Generate random or chlsen Emojis on the command line
+Generate random or chosen Emojis on the command line
 
 ##usage
 
